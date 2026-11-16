@@ -1,4 +1,4 @@
-# Finlit - Financial Literacy Platform
+  # PaisaSmart - Financial Literacy Platform
 
 A comprehensive financial literacy platform with integrated fraud detection capabilities, built using modern web technologies and machine learning.
 
